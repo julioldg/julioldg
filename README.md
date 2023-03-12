@@ -3,4 +3,4 @@
 🌱 I’m currently learning bioinformatics and biostatistics
 
 ### You can find me:
-[linkedIn] (https://www.linkedin.com/in/ladron-de-guevara-farmaceutico/)
+-[LinkedIn](https://www.linkedin.com/in/ladron-de-guevara-farmaceutico/)
